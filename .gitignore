@@ -1,6 +1,6 @@
 
-.txt
-.csv
+*.txt
+*.csv
 .DS_Store
 
 ### Django ###
